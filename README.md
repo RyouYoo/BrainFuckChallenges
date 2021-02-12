@@ -1,5 +1,5 @@
-# BrainFuckChallenges
-Some of my brainfuck challenges :)
+# CTFs
+Some of my challenges :)
 
 # What is this?
 
