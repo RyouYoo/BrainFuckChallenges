@@ -31,4 +31,4 @@ def check_flag():
     return FLAG if sorted(list(request.form["chars"])) == sorted(list(data.values())) else "0"
 
 
-app.run(host="0.0.0.0", port=80)
+app.run(host="0.0.0.0", port=5000)
