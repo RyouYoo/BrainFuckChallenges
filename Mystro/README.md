@@ -18,6 +18,6 @@ python3 app.py
 ## URL
 
 ```
-http://localhost/
+http://localhost:5000/
 ```
 
