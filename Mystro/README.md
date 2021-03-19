@@ -1,6 +1,6 @@
 # MystroChallenge
 
-EASY CHALLENGE
+MEDIUM CHALLENGE
 
 ## Install
 
