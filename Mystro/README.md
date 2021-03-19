@@ -1,3 +1,4 @@
+![alt cover](https://w.wallha.com/ws/5/cEiXNIkV.jpg)
 # MystroChallenge
 
 MEDIUM CHALLENGE
