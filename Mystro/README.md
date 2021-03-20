@@ -22,3 +22,7 @@ python3 app.py
 http://localhost:5000/
 ```
 
+## This Challenge Hosted on:
+
+- [AstonHack CTF](https://astonhack.co.uk/)
+- [IDEH-INPT CTF](https://www.facebook.com/CIT.INPT)
