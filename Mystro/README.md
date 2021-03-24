@@ -19,7 +19,7 @@ python3 app.py
 ## URL
 
 ```
-http://localhost:5000/
+http//[IP]:5000/
 ```
 
 ## This Challenge Hosted on:
