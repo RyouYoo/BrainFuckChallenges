@@ -15,7 +15,7 @@
 define("DB_SERVER", "localhost");
 define("DB_USERNAME", "[DB_USERNAME]");
 define("DB_PASSWORD", "[DB_PASSWORD]");
-define("DB_DATABASE", "search_admin2");
+define("DB_DATABASE", "search_admin");
 
 $db = new mysqli(DB_SERVER, DB_USERNAME,DB_PASSWORD, DB_DATABASE);
 $db -> set_charset("utf-8");
