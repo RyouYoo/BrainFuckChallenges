@@ -22,7 +22,7 @@ $db -> set_charset("utf-8");
 
 $search_value = $_GET["q"];
 
-if (isset($search_value) && strlen($search_value) != 0 && strlen($search_value) < 15) {
+if (isset($search_value) && strlen($search_value) != 0) {
     if ($db -> connect_error) {
         echo 'Connection Faild: '.$db->connect_error;
     } else {
