@@ -7,7 +7,7 @@
     <title>Search for Admins</title>
 </head>
 <body>
-    <form action="/" method="get">
+    <form action="" method="get">
         <input type="text" name="q" placeholder="Name..">
         <button type="submit">Search</button>
     <h1>
