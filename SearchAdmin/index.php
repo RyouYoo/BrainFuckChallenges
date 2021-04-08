@@ -34,7 +34,7 @@ if (isset($search_value) && strlen($search_value) != 0 && strlen($search_value) 
         } else {
         if(mysqli_num_rows($res) > 0) {
             while($row = mysqli_fetch_assoc($res)) {
-                    echo "Name: " . $row["name"] . " FLAG: " . $row["flag"];
+                    echo "Name: " . $row["name"];
             }
         } else {
             echo "0 results!";
